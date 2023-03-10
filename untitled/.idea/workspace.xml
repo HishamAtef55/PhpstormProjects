@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="094361ea-6f42-4830-a18c-b8e426566aae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Http/Controllers/Golf/MembershipController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="300" column="67" lean-forward="true" selection-start-line="300" selection-start-column="67" selection-end-line="300" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="true">
+        <entry file="remoteDeploymentFS://&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Http/Controllers/User/UserClubController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="1091" column="51" lean-forward="true" selection-start-line="1091" selection-start-column="51" selection-end-line="1091" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.booking-page .cards .card .tee-time-container .tee-time-card .tee-time-list .tee-time-row .sale</find>
+      <find>.booking-page .cards .left .booking-card .tee-time-container .tee-time-card .tee-time-list .tee-time-row button.booking-page .cards .left .booking-card .tee-time-container .tee-time-card .tee-time-list</find>
+      <find>.price</find>
+      <find>15</find>
+      <find>edit</find>
+      <find>Date$Players</find>
+      <find>.booking-page .cards</find>
+      <find>.booking-page .cards .left .card</find>
+      <find>Yes</find>
+      <find>language-group</find>
+      <find>group-container</find>
+      <find>clubselect</find>
+      <find>ValidatePh</find>
+      <find>match</find>
+      <find>matchDate</find>
+      <find>payment_method</find>
+      <find>addplayer</find>
+      <find>$city_id = $member-&gt;clubs-&gt;city_id;</find>
+      <find>checkout</find>
+      <find>$singleclub</find>
+      <find>waiting</find>
+      <find>&lt;input type=&quot;hidden&quot;</find>
+      <find>&lt;input type=&quot;hidden&quot; name=&quot;waiting&quot;</find>
+      <find>make</find>
+      <find>showallbooking</find>
+      <find>Accept</find>
+      <find>friendbooking</find>
+      <find>$clubId</find>
+      <find>showplaybooking</find>
+      <find>/playground/booking</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Models/Golf/ClubEvent.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Http/Requests/ClubEventFormRequest.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/club-events/create-event.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/club-events/all-events.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/club-events/single-events.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/club-events/edit-single-events.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/admins/dashboard/golf/clubsName/createclub.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Models/Golf/ClubPricing.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Http/Requests/ClubPricingFormRequest.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/clubpricing/createpricing.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/clubpricing/showsinglepricing.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/clubpricing/editsinglepricing.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/mails/verify-booking.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/golfmansa/events.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Models/Golf/MatchSchedule.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/admins/dashboard/golf/allbooking/showallbooking.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/admins/dashboard/golf/platform-booking/show-booking-details.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/admins/dashboard/golf/allbooking/showbookingDetails.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/admins/dashboard/golf/platform-teetime/show-single-teetime.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/matchschedule/showsinglematchschedule.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/admins/dashboard/golf/platform-booking/showallbooking.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/admins/dashboard/golf/platform-teetime/edit-single-teetime.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/admins/dashboard/golf/platform-teetime/show-all-teetime.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/routes/admin.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Models/Golf/ClubBooking.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Http/Controllers/Golf/GolfController.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/public_html/golf/style/main.css" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/golfmansa/contactus.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/Include/navbar.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/public_html/golf/script/dashboard.js" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/public_html/golf/script/register.js" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/golfmansa/register.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Http/Controllers/Golf/AdminclubController.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/Include/footer.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/golfmansa/membershipcheckout.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/golfmansa/clubpayment.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/golfmansa/hotoffers.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/golfmansa/clubhome.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/mails/WaitingBooking.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/matchschedule/editsinglematchschedule.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/allbooking/showbookingDetails.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/routes/membership.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Http/Controllers/Golf/ClubBookingController.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/golfmansa/membershipprofile.blade.php" />
+        <option value="&lt;30f94588-75a2-4492-8ccb-fb606a6891ae&gt;/site/resources/views/users/dashboard/users/allbooking/playground-booking.blade.php" />
+        <option value="&lt;30f94588-75a2-4492-8ccb-fb606a6891ae&gt;/site/routes/user.php" />
+        <option value="&lt;30f94588-75a2-4492-8ccb-fb606a6891ae&gt;/site/app/Http/Controllers/User/UserClubController.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/routes/user.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/resources/views/users/dashboard/users/allbooking/playground-booking.blade.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Http/Controllers/Golf/MembershipController.php" />
+        <option value="&lt;dd25f649-7800-4978-8068-ccaa1096f134&gt;/site/app/Http/Controllers/User/UserClubController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1004" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="094361ea-6f42-4830-a18c-b8e426566aae" name="Default Changelist" comment="" />
+      <created>1675045932949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675045932949</updated>
+      <workItem from="1675045947002" duration="1388000" />
+      <workItem from="1675064240984" duration="13368000" />
+      <workItem from="1675103517737" duration="14440000" />
+      <workItem from="1675148944366" duration="26853000" />
+      <workItem from="1675186864560" duration="27305000" />
+      <workItem from="1675236336633" duration="23964000" />
+      <workItem from="1675278868560" duration="216000" />
+      <workItem from="1675843966707" duration="23222000" />
+      <workItem from="1675926054569" duration="25484000" />
+      <workItem from="1675978846067" duration="10900000" />
+      <workItem from="1676032078559" duration="84405000" />
+      <workItem from="1676185976096" duration="26393000" />
+      <workItem from="1676272487818" duration="7946000" />
+      <workItem from="1676281276871" duration="18349000" />
+      <workItem from="1676322779487" duration="7808000" />
+      <workItem from="1676358748768" duration="24445000" />
+      <workItem from="1676396665187" duration="13269000" />
+      <workItem from="1676445090669" duration="15624000" />
+      <workItem from="1676488459110" duration="3242000" />
+      <workItem from="1676531321480" duration="18376000" />
+      <workItem from="1676570669083" duration="12067000" />
+      <workItem from="1676633753841" duration="17336000" />
+      <workItem from="1676717959162" duration="532000" />
+      <workItem from="1676751584875" duration="7745000" />
+      <workItem from="1676791493811" duration="14238000" />
+      <workItem from="1676807972250" duration="10977000" />
+      <workItem from="1676829285248" duration="53000" />
+      <workItem from="1676829361705" duration="155000" />
+      <workItem from="1676829628419" duration="12313000" />
+      <workItem from="1676877398273" duration="24554000" />
+      <workItem from="1676912115035" duration="24846000" />
+      <workItem from="1676963596102" duration="19612000" />
+      <workItem from="1676988928761" duration="2364000" />
+      <workItem from="1677002951577" duration="20224000" />
+      <workItem from="1677049777982" duration="20748000" />
+      <workItem from="1677089431405" duration="14662000" />
+      <workItem from="1677136363604" duration="24046000" />
+      <workItem from="1677242161481" duration="32736000" />
+      <workItem from="1677331002039" duration="4456000" />
+      <workItem from="1677396284894" duration="16712000" />
+      <workItem from="1677434084571" duration="9167000" />
+      <workItem from="1677474606774" duration="25378000" />
+      <workItem from="1677512764862" duration="18544000" />
+      <workItem from="1677561599739" duration="27262000" />
+      <workItem from="1677607089234" duration="28562000" />
+      <workItem from="1677655163925" duration="1953000" />
+      <workItem from="1677658430048" duration="1739000" />
+      <workItem from="1677660518222" duration="2110000" />
+      <workItem from="1677664455459" duration="2238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="784326000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="0" weight="0.25531915" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" content_ui="combo" id="Terminal" order="11" side_tool="true" weight="0.36497545" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.23524962" />
+      <window_info anchor="right" id="Database" order="4" weight="0.20801815" />
+      <window_info anchor="right" id="make" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="0" weight="0.25531915" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" content_ui="combo" id="Terminal" order="11" side_tool="true" weight="0.36497545" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.27912253" />
+      <window_info anchor="right" id="Database" order="4" weight="0.20801815" />
+      <window_info anchor="right" id="make" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>remoteDeploymentFS://&lt;30f94588-75a2-4492-8ccb-fb606a6891ae&gt;/site/app/Models/Golf/ClubsName.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="345" column="16" selection-start-line="345" selection-start-column="16" selection-end-line="345" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17294" column="12" selection-start-line="17294" selection-start-column="12" selection-end-line="17294" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="370" column="9" lean-forward="true" selection-start-line="370" selection-start-column="9" selection-end-line="370" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
